@@ -110,7 +110,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.Calculator</mainClass>
+                           <mainClass>com.example.CICD41.Calculator</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
